@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dffc42a0-7623-4bec-8e30-4a3c6882d62b" name="GLY_A8V8.1SP2_GROUP_CODE" url="http://localhost">
+        <fileTransfer mountedRoot="D:\Seeyon\A8V8.1SP2_GROUP\ApacheJetspeed\webapps\seeyon" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
